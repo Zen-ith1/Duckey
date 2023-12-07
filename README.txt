@@ -14,13 +14,13 @@ _____________________________________________________
 NOTES: 
 
 
--No inject.bin file because code needs edited and completed before execution.
+-No inject.bin file because code needs edited and compiled before execution.
 
 -Replace "Replace With Password" with your actual password. no need for parentheses ("").
 
 -Able to be formated and used on any OS. 
 
--(Must click on Password Input Box on login screen before inserting ducky to run payload)
+-( User Must click on Password Input Box on login screen before inserting ducky to run payload )
 
 _____________________________________________________
 
