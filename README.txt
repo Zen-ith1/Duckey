@@ -20,7 +20,7 @@ NOTES:
 
 -Able to be formated and used on any OS. 
 
--(Must click on Password Input Box on login screen before insterting ducky to run payload)
+-(Must click on Password Input Box on login screen before inserting ducky to run payload)
 
 _____________________________________________________
 
@@ -31,3 +31,6 @@ Check Me Out @
 Github: https://github.com/Zen-ith1
 Twitter: @TheWhiteWid0w
 https: CypherLinks.com
+
+
+
